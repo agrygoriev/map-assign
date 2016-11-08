@@ -1,0 +1,25 @@
+{
+    "name": "map-assign",
+    "version": "1.0.0",
+    "description": "Object.assign for Map-like collections",
+    "keywords":
+    [
+        "es6",
+        "object",
+        "assign",
+        "entries",
+        "map",
+        "map-like",
+        "collection",
+        "urlsearchparams"
+    ],
+    "bugs":
+    {
+        "url": "https://github.com/shvaikalesh/map-assign/issues",
+        "email": "shvaikalesh@gmail.com"
+    },
+    "license": "MIT",
+    "author": "Aleksey Shvayka <shvaikalesh@gmail.com>",
+    "main": "./map-assign",
+    "repository": "shvaikalesh/map-assign"
+}
