@@ -21,5 +21,14 @@
     "license": "MIT",
     "author": "Aleksey Shvayka <shvaikalesh@gmail.com>",
     "main": "./map-assign",
-    "repository": "shvaikalesh/map-assign"
+    "repository": "shvaikalesh/map-assign",
+    "scripts":
+    {
+        "test": "mocha"
+    },
+    "devDependencies":
+    {
+        "mocha": "^3.1.2",
+        "chai": "chaijs/chai"
+    }
 }
